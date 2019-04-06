@@ -1,1 +1,1 @@
-print "this is first project in git"
+print "this is 2nd project in git"
